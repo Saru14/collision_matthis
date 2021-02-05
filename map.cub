@@ -1,0 +1,17 @@
+R	800	800
+
+S	../../sprites/pillar.xpm
+
+NO	../../sprites/eagle.xpm
+SO	../../sprites/colorstone.xpm
+WE	../../sprites/greystone.xpm
+EA	../../sprites/purplestone.xpm
+
+F	255, 102, 103
+C	151, 0, 201
+
+11111111
+10000001
+1000N001
+10000001
+11111111
